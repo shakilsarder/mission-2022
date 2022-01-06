@@ -78,6 +78,23 @@ h1{
     height: 542px;
     width: 338px;
 }
+#last{
+    margin: 0 auto;
+    text-align: left;
+    width: 1000px;
+    margin-bottom: 20px;
+}
+#contact-us{
+    font-size: 35px;
+    color: saddlebrown;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.text-field{
+    height: 40px;
+    width: 600px;
+    border-radius: 10px;
+}
 footer{
     background-color: black;
     height: 177px;
@@ -88,7 +105,6 @@ footer{
     font-size: 50px;
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 0px;
-
 }
 footer p {
     text-align: center;
