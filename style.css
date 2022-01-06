@@ -4,6 +4,12 @@ body{
 
 h1{
     font-size: 50px;
+    font-weight: 700;
+    margin: 0px 0px 0px 0px; 
+    padding: 0px 0px 0px 0px;
+}
+.banner{
+    margin-bottom: 50px;
 }
 .button{
     text-decoration:none;
@@ -26,6 +32,8 @@ h1{
 .flexable-box{
     display: flex;
     margin-bottom: 100px;
+    margin: 5%;
+    align-self: center;
 }
 .box1{
     width: 50%;
@@ -33,27 +41,57 @@ h1{
     height:500px;
 }
 .box1 img{
-    
+    position: right;
     width: 40%;
-    height: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-footer p {
-    font-family: 'Lobster', cursive;
+.text-color{
+    color: fuchsia;
+    font-weight: 500;
+}
+.mission-header{
     text-align: center;
 }
+.mission{
+    width: 360px;
+    height: 374px;
+    margin-left: 5%;
+    padding-left: 25px;
+    border-radius: 25px; 
+}
+#bg-color1{
+    background-color: lightslategray ;
+}
+#bg-color2{
+    background-color: rgb(134, 141, 134) ;
+}
+#bg-color3{
+    background-color: rgb(231, 146, 167) ;
+}
+.mission img{
+    height: 141px;
+    width: 141px;
+}
+#project-dev{
+    align-self: left;
+}
+#app{
+    height: 542px;
+    width: 338px;
+}
+footer{
+    background-color: black;
+    height: 177px;
+    padding-top: 50px;
+}
+#footer-size{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    margin: 0px 0px 0px 0px; 
+    padding: 0px 0px 0px 0px;
+
+}
+footer p {
+    text-align: center;
+    color: white;
+}
+
