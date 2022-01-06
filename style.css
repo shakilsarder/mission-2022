@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.button{
+    text-decoration:none;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 7px; 
+}
+#header{
+    padding-left: 10px;
+    border-left: 4px solid;
+    border-color: rgb(245, 46, 86); 
+    border-image-slice: 1;
+}
+.header-text-color{
+    font-family: 'Yeseva One', cursive;
+    color: fuchsia;
+}
+.flexable-box{
+    display: flex;
+    margin-bottom: 100px;
+}
+.box1{
+    width: 50%;
+    padding-left: 5%;
+    height:500px;
+}
+.box1 img{
+    
+    width: 40%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer p {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
